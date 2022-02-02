@@ -9,7 +9,7 @@ jobs:
     
     steps:
       - name: Single-Line Script Sample
-        run: echo "Hello All!"
+        run: echo "Hi! Greetings from Castle Donington!"
         
       - name: Multi-Line Script Sample
         run: |
